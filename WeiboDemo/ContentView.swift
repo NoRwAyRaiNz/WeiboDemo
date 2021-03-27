@@ -5,11 +5,11 @@
 //  Created by Jamie on 2021/3/5.
 //
 
-import SwiftUI
+import SwiftUI //导入框架
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
+        Text("Hello, Jamie!")
             .padding()
     }
 }
